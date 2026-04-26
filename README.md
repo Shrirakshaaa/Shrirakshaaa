@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final year **CSE (AI/ML)** student at JSS Academy, Bangalore
+- 🎓 Final year **CSE (AI/ML)** student at DBIT, Bangalore
 - 💼 Interning at **JSpiders Bangalore**
 - 🌱 Currently building **Yuva** — AI-powered internship platform for tier 2/3 college students
 - 💬 Ask me about **Java, Python, Machine Learning, Spring Boot**
