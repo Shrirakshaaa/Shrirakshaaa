@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shri Raksha</h1>
-<h3 align="center">Final Year CSE (AI/ML) Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Final Year CSE (AI/ML) Student | Java Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Yuva+%F0%9F%9A%80;Java+%7C+Python+%7C+MySQL" alt="Typing SVG" />
