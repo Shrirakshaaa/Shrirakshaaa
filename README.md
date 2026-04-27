@@ -7,16 +7,16 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Final year **CSE (AI/ML)** student at DBIT, Bangalore
-- 💼 Interning at **JSpiders Bangalore**
-- 🌱 Currently building **Yuva** — AI-powered internship platform for tier 2/3 college students
-- 💬 Ask me about **Java, Python, Machine Learning, Spring Boot**
-- 📫 Reach me at **shriraksham** on LinkedIn
+### About Me
+- Final year **CSE (AI/ML)** student at DBIT, Bangalore
+- Interning at **JSpiders Bangalore**
+- Currently building **Yuva** — AI-powered internship platform for tier 2/3 college students
+- Ask me about **Java, Python, Machine Learning, Spring Boot**
+- Reach me at **shriraksham** on LinkedIn
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -26,20 +26,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
 
-### 🌟 Featured Project
-#### [Yuva 🚀](https://shrirakshaaa.github.io/YUVA/)
-> AI-powered internship and career acceleration platform for tier 2/3 college students in India
-
-- 🤖 AI matching using Python & Scikit-learn
-- ☕ Java Spring Boot REST APIs
-- 🗄️ MySQL database
-- 🌍 Live at: https://shrirakshaaa.github.io/YUVA/
-
----
-
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrirakshaaa&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -60,4 +48,4 @@
 </p>
 
 ---
-<p align="center">⭐ From <a href="https://github.com/Shrirakshaaa">Shrirakshaaa</a> with ❤️</p>
+<p align="center"> From <a href="https://github.com/Shrirakshaaa">Shrirakshaaa</a></p>
